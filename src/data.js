@@ -6,21 +6,21 @@ const data ={
         {
           id:1,
           img:img1,
-          title:'Best Laptops',
+          title:'HP ChromeBook',
           desc:'',
           price:1000
         },
         {
             id:2,
             img:img2,
-            title:'Best Laptops',
+            title:'HP EliteBook',
             desc:'',
             price:2000
           },
           {
             id:3,
             img:img3,
-            title:'Best Laptops',
+            title:'Lenovo',
             desc:'',
             price:3000
           },
