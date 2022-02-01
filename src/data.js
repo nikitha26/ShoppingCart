@@ -1,7 +1,7 @@
 import img1 from './img/img1.png';
 import img2 from './img/img2.png';
 import img3 from './img/img3.jpeg';
-const data ={
+const data = {
     productData:[
         {
           id:1,
