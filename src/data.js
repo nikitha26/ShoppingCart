@@ -22,7 +22,7 @@ const data = {
             id:3,
             img:img5,
             title:'Redmi Phone',
-            desc:'Phone',
+            desc:'Phone Mobile',
             price:3000
           },
           {
