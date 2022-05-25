@@ -6,7 +6,7 @@ const Itemcard = (props) => {
   return (
     <div className='col-11 col-md-6 col-lg-3 mx-0 mb-4'>
        <div className="card p-0 overflow-hidden h-100 shadow">
-          <a href='#'>
+          <a href='#' title={props.desc}>
             <img src={props.img} className="card-img-top img-fluid" alt={props.title} style={{height:'180px'}}/>
           </a>
           <div className="card-body text-center">

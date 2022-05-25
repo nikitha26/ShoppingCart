@@ -8,14 +8,14 @@ const data = {
           id:1,
           img:img1,
           title:'HP ChromeBook',
-          desc:'Laptop',
+          desc:'HP Laptop',
           price:1000
         },
         {
             id:2,
             img:img2,
             title:'HP EliteBook',
-            desc:'Laptop',
+            desc:'HP Laptop',
             price:2000
           },
           {
@@ -29,7 +29,7 @@ const data = {
             id:4,
             img:img6,
             title:'MacBook',
-            desc:'Laptop',
+            desc:'MackBook Laptop',
             price:3000
           },
     ]
